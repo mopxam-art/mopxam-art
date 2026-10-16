@@ -1,16 +1,18 @@
-## Hi there 👋
+# Nikolai Morkhat (@mopxam-art)
 
-<!--
-**mopxam-art/mopxam-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Automation Engineer | Rust, Python, Web3**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Bounty & Payout Coordinates
+- **USDC (EVM / Arbitrum / ERC20):** 
+- **Identity:** Verified via Sumsub (Stellar Wave / Drips Network)
+- **Primary Focus:** High-throughput automation, smart contract auditing & testing, Web3 tooling, asynchronous microservices.
+
+### 🛠 Tech Stack
+- **Languages:** Rust, Python, TypeScript / JavaScript, Bash, SQL
+- **Web3 / Blockchain:** Soroban (Rust), Ethereum/EVM, Stellar, Smart Contract Testing & Formal Verification
+- **Automation & Infra:** Puppeteer, Playwright, Telethon / Telegram API, Docker, Linux / Debian administration
+
+---
+*Open for technical challenges, smart contract bounties, and high-performance automation.*
