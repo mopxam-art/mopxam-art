@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 Bounty & Payout Coordinates
-- **USDC (EVM / Arbitrum / ERC20):** 
+- **USDC (EVM / Arbitrum / ERC20):** `0x387c064ccf729a4846b62e95dc6b70e4d4c41e73`
 - **Identity:** Verified via Sumsub (Stellar Wave / Drips Network)
 - **Primary Focus:** High-throughput automation, smart contract auditing & testing, Web3 tooling, asynchronous microservices.
 
